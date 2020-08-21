@@ -6,7 +6,7 @@
  
 Here are some ideas to get you started:
 
-- 🔭 I’m currently pursuing computer engineering.
+- 🔭 I’m currently pursuing Computer Engineering.
 - 🌱 I’m currently learning Machine Learning.
 
 <a href="https://github.com/USERNAME">
