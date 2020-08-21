@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Dhananjay Bagul.
 
-<!--
-**dhananjay-45/dhananjay-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="dhananjay-45" />
+ </p>
+ 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursuing computer engineering.
+- 🌱 I’m currently learning Machine Learning.
+
+<a href="https://github.com/USERNAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjay-45&theme=light&hide_langs_below=1" />
+</a> 
