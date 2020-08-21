@@ -4,8 +4,6 @@
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="dhananjay-45" />
  </p>
  
-Here are some ideas to get you started:
-
 - 🔭 I’m currently pursuing Computer Engineering.
 - 🌱 I’m currently learning Machine Learning.
 
