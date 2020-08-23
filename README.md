@@ -6,6 +6,7 @@
  
 - 🔭 I’m currently pursuing Computer Engineering.
 - 🌱 I’m currently learning Machine Learning.
+- 👯 I’m currently exploring Flutter.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
