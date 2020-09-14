@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Dhananjay Bagul.
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Dhananjay Bagul.
 
-<p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="dhananjay-45" />
  </p>
  
